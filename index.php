@@ -4,7 +4,7 @@ session_start();
 
 <!DOCTYPE html>
 <html>
-<title>MINAS VALLEY</title>
+<title>MINAS VALLEY - v1.1</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
