@@ -147,13 +147,10 @@ body, html {
         <label for="nome">Nome:</label>
         <input type="text" id="nome" />
         </div>
-        <p> </p>
+        <p> 
+        </p>
         <div>
-        <label for="email">E-mail:</label>
-        <input type="email" id="email" />
-        </div>
-        <p> </p>
-         <textarea rows="4" cols="50" name="comentarios" form="ussform" placeholder="Comentarios aqui"></textarea>
+        <textarea rows="4" cols="50" name="comentarios" form="ussform" placeholder="Comentarios aqui"></textarea>
          <h5>
          <input type="button" value="enviar">
          </h5>
