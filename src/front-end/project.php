@@ -144,7 +144,7 @@ body, html {
 
         <div> 
        <h5>Comentarios</h5>
-        <label for="nome">Nome:</label>
+        <label for="nome" placeholder="Comentarios aqui">Nome:</label> 
         <input type="text" id="nome" />
         </div>
         <p> 
