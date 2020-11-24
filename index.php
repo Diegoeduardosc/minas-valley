@@ -43,7 +43,6 @@ body, html {
 </header>
 
 <body>
-  <h1>teste</h1>
   <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container-fluid">
       <div class="navbar-header">
